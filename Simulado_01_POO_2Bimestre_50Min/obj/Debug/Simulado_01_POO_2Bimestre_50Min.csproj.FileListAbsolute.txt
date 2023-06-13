@@ -1,0 +1,12 @@
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\bin\Debug\Simulado_01_POO_2Bimestre_50Min.exe.config
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\bin\Debug\Simulado_01_POO_2Bimestre_50Min.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\bin\Debug\Simulado_01_POO_2Bimestre_50Min.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.csproj.AssemblyReference.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.Form1.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.Properties.Resources.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.csproj.GenerateResource.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.csproj.CoreCompileInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Simulado_01_POO_2Bimestre_50Min\Simulado_01_POO_2Bimestre_50Min\obj\Debug\Simulado_01_POO_2Bimestre_50Min.Calculadora.resources
