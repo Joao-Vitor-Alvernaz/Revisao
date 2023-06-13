@@ -14,6 +14,7 @@ namespace Simulado_01_POO_2Bimestre_50Min
     {
         public Calculadora()
         {
+            //git pull
             InitializeComponent();
         }
 
