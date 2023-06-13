@@ -39,6 +39,10 @@ namespace Simulado_01_POO_2Bimestre_50Min
                 {
                     textBox_Result.Text = Convert.ToString(number1 / number2);
                 }
+                else if (radioButton5.Checked)
+                {
+                    textBox_Result.Text = Convert.ToString(number1 % number2);
+                }
             }
             catch (Exception ex)
             {
